@@ -6,7 +6,7 @@ import { Calendar, Trophy, Users, Clock, MapPin } from "lucide-react"
 // Mock data for tournaments
 const currentTournament = {
   id: 1,
-  name: "APEXチャレンジカップ2026",
+  name: "チャレンジカップ2026",
   status: "active",
   currentWeek: 2,
   totalWeeks: 3,
